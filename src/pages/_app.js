@@ -1,4 +1,5 @@
 // Local imports
+import { appWithTranslation } from 'next-i18next'
 import { DefaultSeo as DefaultSEO } from 'next-seo'
 
 
@@ -14,7 +15,7 @@ import { SEOConfig } from '../../seo.config'
 
 
 
-export default function App({ Component, pageProps }) {
+function App({ Component, pageProps }) {
 	return (
 		<>
 			<meta name="viewport" content="initial-scale=1.0, viewport-fit=cover, width=device-width" />
@@ -26,3 +27,5 @@ export default function App({ Component, pageProps }) {
 		</>
 	)
 }
+
+export default appWithTranslation(App)

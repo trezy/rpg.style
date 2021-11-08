@@ -1,0 +1,46 @@
+{
+  "idLabel": "ID",
+  "nameLabel": "Name",
+
+  "sessionStyleHeader": "Session Style",
+  "sessionStyleOption1": "Voice",
+  "sessionStyleOption2": "Chat",
+  "sessionStyleOption3": "Mix",
+  "sessionStyleOption4": "Offline",
+
+  "systemsAndSupplementsHeader": "Systems & Supplements",
+
+  "toolsHeader": "Tools Used",
+
+  "backgroundHeader": "Background",
+  "backgroundOption1": "Can write scenarios",
+  "backgroundOption2": "Can illustrate",
+  "backgroundOption3": "Can write stories",
+  "backgroundOption4": "Good at organizing online sessions",
+  "backgroundOption5": "Strong IT background",
+  "backgroundOption6": "Good at acting/voice acting",
+  "backgroundOption7": "RNGesus (critical hitter!)",
+  "backgroundOption8": "Cursed dice (critical fumbler)",
+
+  "playstylePreferenceHeader": "Playstyle Preference",
+  "playstylePreferenceOption1": "Combat",
+  "playstylePreferenceOption2": "Investigation/Interrogation",
+  "playstylePreferenceOption3": "RP-heavy",
+  "playstylePreferenceOption4": "Comedy",
+  "playstylePreferenceOption5": "Stealth",
+  "playstylePreferenceOption6": "PvP",
+  "playstylePreferenceOption7": "Gloomy/depressive development is welcome",
+  "playstylePreferenceOption8": "Gloomy/depressive development NOT welcome",
+
+  "rolePreferenceHeader": "Role Preference",
+  "rolePreferenceOption1": "GM only",
+  "rolePreferenceOption2": "If I had to pick...\nGM",
+  "rolePreferenceOption3": "If I had to pick...\nPlayer",
+  "rolePreferenceOption4": "Player",
+
+  "romancePreferenceHeader": "Romance Preference",
+  "romancePreferenceOption1": "Prefer MF pairings",
+  "romancePreferenceOption2": "Any pairing is OK",
+  "romancePreferenceOption3": "Prefer FF or MM pairings",
+  "romancePreferenceOption4": "No romance please"
+}
